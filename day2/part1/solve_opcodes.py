@@ -47,4 +47,8 @@ def solve_codes(code_list):
 	return code_list
 
 parseFile("list_of_integers.txt")
+#inputs
+ilo[1] = 12
+ilo[2] = 2
+
 print(solve_codes(ilo))
